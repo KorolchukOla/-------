@@ -125,15 +125,17 @@ span {
 
 .strangeDifficultLine {
     margin: 14px 0 110px;
-    padding: 19px 0 15px;
+    padding: 14px 0 8px;
     background-color: #fff;
     transform: rotate(-1deg);
 }
 
 .strangeDifficultLineText {
+    margin: 0;
     display: flex;
     justify-content: space-around;
     color: #1D1E22;
+    font-weight: 800;
 }
 
 .strangeDifficultLineStar {
